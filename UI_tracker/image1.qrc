@@ -1,0 +1,29 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>images_test/test1.png</file>
+    <file>images_test/test22.png</file>
+    <file>images_test/background002.png</file>
+    <file>images_test/background001.png</file>
+    <file>images_test/video.png</file>
+    <file>images_test/settings.png</file>
+    <file>images_test/save.png</file>
+    <file>images_test/menu.png</file>
+    <file>images_test/author.png</file>
+    <file>images_test/versions.png</file>
+    <file>images_test/Ordinateur.png</file>
+    <file>images_test/Score.png</file>
+    <file>images_test/count.png</file>
+    <file>images_test/selection.png</file>
+    <file>images_test/person.png</file>
+    <file>images_test/tally.png</file>
+    <file>images_test/tracking.png</file>
+    <file>images_test/Cute_Vehicle.png</file>
+    <file>images_test/recovery.png</file>
+    <file>images_test/folder_web.png</file>
+    <file>images_test/g1.png</file>
+    <file>images_test/net_speed.png</file>
+    <file>images_test/result.png</file>
+    <file>images_test/ini-image.png</file>
+    <file>images_test/background1.png</file>
+  </qresource>
+</RCC>
